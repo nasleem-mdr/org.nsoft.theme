@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NsoftTheme
+Bundle-SymbolicName: org.nsoft.theme
+Bundle-Version: 1.0.1.qualifier
+Fragment-Host: org.adempiere.ui.zk;bundle-version="11.0.0"
+Automatic-Module-Name: org.nsoft.theme
+Bundle-RequiredExecutionEnvironment: JavaSE-17

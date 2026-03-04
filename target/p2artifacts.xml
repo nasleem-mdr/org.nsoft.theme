@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='org.nsoft.theme' version='1.0.1.202603040154'>
+    <properties size='9'>
+      <property name='artifact.size' value='320064'/>
+      <property name='download.size' value='320064'/>
+      <property name='download.checksum.sha-512' value='1589f7e891d30d994decddeeaeba6c3e311710f5c717cd90d8d3b5591ab1ee34187677ae7cd11920ea39a050dd10604f9f79aba9a9ee245f2ff5dec1c7f98f41'/>
+      <property name='download.checksum.sha-1' value='853923ddb4399679f9fb80ebcbfa2be2a86844a8'/>
+      <property name='download.checksum.sha-256' value='76869f9062ea7e73f9d6a6312d18e3ed4bb7fdfecfede9fe4a23e5cbb836e0ce'/>
+      <property name='maven-groupId' value='org.nsoft.theme'/>
+      <property name='maven-artifactId' value='org.nsoft.theme'/>
+      <property name='maven-version' value='1.0.1-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='org.nsoft.theme.source' version='1.0.1.202603040154'>
+    <properties size='10'>
+      <property name='artifact.size' value='318020'/>
+      <property name='download.size' value='318020'/>
+      <property name='download.checksum.sha-512' value='be6800cb2c81bcdccf1099e63aa94cbba57d6ac5d3149c522d5d165ad5ed31de450699f74292ef0da8c60a6f09a728c1d46bac23773f43ddb56c19bb036ff971'/>
+      <property name='download.checksum.sha-1' value='dc2faadbb625f397b1593db74643a14225651d67'/>
+      <property name='download.checksum.sha-256' value='6a2c14d8ca7a8e2adbc891fed113d599c38e34f0e3acc7b5bdabe7f9d1ac469d'/>
+      <property name='maven-groupId' value='org.nsoft.theme'/>
+      <property name='maven-artifactId' value='org.nsoft.theme'/>
+      <property name='maven-version' value='1.0.1-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-type' value='java-source'/>
+    </properties>
+  </artifact>
+</artifacts>
